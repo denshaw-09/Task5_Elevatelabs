@@ -1,7 +1,7 @@
 # Network Traffic Analysis Report
 
 ## Overview
-This project analyzes network traffic using **Windsurf** by capturing packets across different protocols. 
+This project analyzes network traffic using **Wireshark** by capturing packets across different protocols. 
 The study focuses on **DNS, TCP, and HTTP (port 80)** to examine communication patterns, request-response interactions, and potential performance insights.
 
 ## Tools Used
